@@ -1,0 +1,11 @@
+obj/
+Debug/
+Release/
+bin/
+*.vcproj.*
+*.plg
+*.opt
+*.ncb
+*.aps
+*.bak
+Thumbs.db
