@@ -18,8 +18,8 @@ The following modes are supported.
 
 Copyright
 --------
-(c) 2005-2012 Leonid Gordo
-Artwork is by Alexei Samoshin.
+* (c) 2005-2012 Leonid Gordo
+* Artwork is by Alexei Samoshin.
 
 Licence
 --------
